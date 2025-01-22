@@ -47,3 +47,8 @@ Verify that the user is redirected to the login page.
 
 Product Display Validation:
 -Ensure all product cards, including images, prices, and descriptions, are displayed correctly on the product page.
+
+## How to Run Tests
+1. Clone this repository: `git clone <repository-url>`
+2. Install dependencies: `npm install`
+3. Run the tests: `npm test`
